@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "totalProducts": 50,
+    "currency": "THB",
+    "locale": "th-TH"
+  },
+  "Category": {
+    "id": "CAT-011",
+    "name": "บอร์ดเกม",
+    "slug": "board-games"
+  },
+  "Products": [
+    {
+      "id": "ITM-011",
+      "sku": "BG-CAT-001",
+      "name": "Catan",
+      "categoryId": "CAT-011",
+      "brand": "Catan Studio",
+      "description": "เกมวางแผนสร้างอาณานิคม แข่งขันสะสมทรัพยากรและต่อรองการค้ากับผู้เล่นคนอื่น เหมาะกับ 3-4 คน",
+      "price": 1590,
+      "stock": 25,
+      "status": "available",
+      "tags": ["strategy", "family", "trading", "bestseller"],
+      "imageUrl": "https://example.com/images/products/bg-cat-001.jpg"
+    },
+    {
+      "id": "ITM-012",
+      "sku": "BG-COD-002",
+      "name": "Codenames",
+      "categoryId": "CAT-011",
+      "brand": "Czech Games Edition",
+      "description": "เกมปาร์ตี้ทายคำใบ้ เล่นเป็นทีม เหมาะกับกลุ่มเพื่อนและงานสังสรรค์ กติกาเข้าใจง่าย",
+      "price": 690,
+      "stock": 40,
+      "status": "available",
+      "tags": ["party", "word-game", "team"],
+      "imageUrl": "https://example.com/images/products/bg-cod-002.jpg"
+    },
+    {
+      "id": "ITM-013",
+      "sku": "BG-TTR-003",
+      "name": "Ticket to Ride",
+      "categoryId": "CAT-011",
+      "brand": "Days of Wonder",
+      "description": "เกมวางแผนสร้างเส้นทางรถไฟข้ามทวีป เล่นง่าย สนุกทั้งครอบครัว เหมาะกับทุกวัย",
+      "price": 1690,
+      "stock": 12,
+      "status": "available",
+      "tags": ["family", "strategy", "route-building"],
+      "imageUrl": "https://example.com/images/products/bg-ttr-003.jpg"
+    },
+    {
+      "id": "ITM-014",
+      "sku": "BG-SPL-004",
+      "name": "Splendor",
+      "categoryId": "CAT-011",
+      "brand": "Space Cowboys",
+      "description": "เกมสะสมอัญมณีและพัฒนาธุรกิจพ่อค้าในยุคเรอเนซองส์ เล่นง่าย จบไว",
+      "price": 990,
+      "stock": 0,
+      "status": "out_of_stock",
+      "tags": ["strategy", "engine-building", "quick-play"],
+      "imageUrl": "https://example.com/images/products/bg-spl-004.jpg"
+    },
+    {
+      "id": "ITM-015",
+      "sku": "BG-KOP-005",
+      "name": "ขุนช้างขุนแผน เกมกระดาน",
+      "categoryId": "CAT-011",
+      "brand": "ป่านมะลิ เกมส์",
+      "description": "บอร์ดเกมสัญชาติไทยที่นำวรรณคดีขุนช้างขุนแผนมาออกแบบเป็นเกมวางแผนและต่อรอง สอดแทรกวัฒนธรรมไทย",
+      "price": 890,
+      "stock": 15,
+      "status": "available",
+      "tags": ["strategy", "thai-game", "culture", "family"],
+      "imageUrl": "https://example.com/images/products/bg-kop-005.jpg"
+    },
+    {
+      "id": "ITM-016",
+      "sku": "BG-TLM-006",
+      "name": "ตลาดน้ำ",
+      "categoryId": "CAT-011",
+      "brand": "สยามบอร์ดเกม",
+      "description": "เกมค้าขายสไตล์ไทยที่จำลองบรรยากาศตลาดน้ำ ผู้เล่นแข่งกันซื้อขายสินค้าเพื่อทำกำไรสูงสุด เล่นสนุกได้ทั้งครอบครัว",
+      "price": 750,
+      "stock": 20,
+      "status": "available",
+      "tags": ["trading", "thai-game", "family", "economy"],
+      "imageUrl": "https://example.com/images/products/bg-tlm-006.jpg"
+    },
+    {
+      "id": "ITM-017",
+      "sku": "BG-DIX-007",
+      "name": "Dixit",
+      "categoryId": "CAT-011",
+      "brand": "Libellud",
+      "description": "เกมเล่าเรื่องผ่านภาพวาดสวยงาม ทายไพ่จากคำใบ้สุดสร้างสรรค์ เหมาะกับทุกเพศทุกวัย",
+      "price": 1190,
+      "stock": 8,
+      "status": "low_stock",
+      "tags": ["party", "storytelling", "art"],
+      "imageUrl": "https://example.com/images/products/bg-dix-007.jpg"
+    },
+    {
+      "id": "ITM-018",
+      "sku": "BG-SNK-008",
+      "name": "ซุปเปอร์มาร์เก็ตวุ่นวาย",
+      "categoryId": "CAT-011",
+      "brand": "บางกอกเกมเวิร์คส์",
+      "description": "บอร์ดเกมไทยแนวจัดการร้านค้า ผู้เล่นแข่งกันสต็อกสินค้าและบริหารซุปเปอร์มาร์เก็ตให้ทำกำไรสูงสุดในเวลาจำกัด",
+      "price": 950,
+      "stock": 5,
+      "status": "low_stock",
+      "tags": ["strategy", "thai-game", "management", "family"],
+      "imageUrl": "https://example.com/images/products/bg-snk-008.jpg"
+    }
+  ]
+}
